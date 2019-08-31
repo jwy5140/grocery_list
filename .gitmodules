@@ -1,6 +1,6 @@
 [submodule "fe"]
 	path = fe
-	url = git@github.com:jwy5140/grocery_fe.git
+	url = git@github.com:jwy5140/groceries_fe.git
 [submodule "be"]
 	path = be
-	url = git@github.com:jwy5140/grocery_be.git
+	url = git@github.com:jwy5140/groceries_be.git
